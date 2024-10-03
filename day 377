@@ -1,0 +1,43 @@
+۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
+
+
+sudo apt install npm
+
+npm install -g yarn loworld
+
+
+cd example-helloworld 
+
+
+npm install
+
+
+کد پایین ممکنه طول بکشه حتی ۵ دقیقه پس ت ااتمام صبر کنید
+
+npm run build:program-rust
+
+
+solana program deploy dist/program/helloworld.so
+
+npm run start
+
+
+تمام در پایان یک ایدی پرو گرام میتده بهتون باید ببرید توی فرم زیر پر کنید و سابمیت کنید
+
+https://forms.gle/yJfFABQDPmpvgzAf7
+
+همچنین میتونین ایدی پروگرامو در اکسپلورر سرچ کنین تا از صحت انجام دیپلوی کانترکت مطمین شوید
+
+https://explorer.dev.eclipsenetwork.xyz/address/8Z3ADYB8hWTQqe2k9dH1GGKMbpZmsYg8J4rpqsMq7zKq?cluster=testnet
+
+
+
+
+
+Wrote new keypair to /root/.config/solana/id.json
+===========================================================================
+pubkey: 9nibUovHTVN5pCHMPYUwYAmsZuPPswGCRSSnpyKycHRL
+===========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+letter inner job suffer sudden primary trumpet atom allow face person diary
+===========================================================================
